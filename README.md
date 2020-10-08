@@ -25,8 +25,7 @@ ______
 
 <center>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bradleybowman.bradleybowman)
-
+[![HitCount](http://hits.dwyl.com/bradleybowman/bradleybowman.svg)](http://hits.dwyl.com/bradleybowman/bradleybowman)
 
 [![Twitter Logo](/assets/twitter-fill.svg)](https://www.twitter.com/bradleydbowman)
 [![LinkedIn Logo](/assets/linkedin-box-fill.svg)](https://www.linkedin.com/in/bradleydbowman)
