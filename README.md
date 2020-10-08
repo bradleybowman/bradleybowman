@@ -22,7 +22,6 @@ ______
 \____/
 ```
 ![Bradley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradleybowman&custom_title=GitHub%20Stats&include_all_commits&count_private=true&&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleybowman&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <center>
 
