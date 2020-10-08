@@ -1,9 +1,28 @@
-<center>
+```
 
+[bradleybowman@github.com ~]$ neofetch
+                                    bradleybowman@github.com
+______                              ------------------------
+| ___ \                             OS: Human
+| |_/ /                             Host: Earth
+| ___ \                             Uptime: 31 years
+| |_/ /                             Packages: Computer Engineering (Major), Mathematics
+\____/                              Favorite Color: Blue
+______                              Favorite Font: Liberation Family
+|  _  \                             Desktop: Arch Linux/KDE Plasma
+| | | |                             Laptop: GalliumOS/XFCE4
+| | | |                             Favorite Movies: Pulp Fiction, Full Metal Jacket
+| |/ /                              Hobbies: Games, LaserDiscs, Electronics Repair
+|___/                               Employment: Searching
+______                    
+| ___ \
+| |_/ /
+| ___ \
+| |_/ /
+\____/
+```
 ![Bradley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradleybowman&custom_title=GitHub%20Stats&include_all_commits&count_private=true&&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleybowman&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
 
 <center>
 
