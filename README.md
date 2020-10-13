@@ -21,15 +21,18 @@ ______
 | |_/ /
 \____/
 ```
-![Bradley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradleybowman&custom_title=GitHub%20Stats&include_all_commits&count_private=true&&show_icons=true&theme=onedark)
+<p align="center">
 
-<center>
+  <img src="https://github-readme-stats.vercel.app/api?username=bradleybowman&custom_title=GitHub%20Stats&include_all_commits&count_private=true&&show_icons=true&theme=onedark" />
 
-[![HitCount](http://hits.dwyl.com/bradleybowman/bradleybowman.svg)](http://hits.dwyl.com/bradleybowman/bradleybowman)
+</p>
 
-[![Twitter Logo](/assets/twitter-fill.svg)](https://www.twitter.com/bradleydbowman)
-[![LinkedIn Logo](/assets/linkedin-box-fill.svg)](https://www.linkedin.com/in/bradleydbowman)
-[![Mail Logo](/assets/mail-fill.svg)](mailto:bradleybowman@sabertech.dev)
-[![External Link](/assets/external-link-fill.svg)](https://sabertech.dev)
+<p align="center">
 
-</center>
+  <img src="http://hits.dwyl.com/bradleybowman/bradleybowman.svg" alt="Hits" />
+  <img src="/assets/twitter-fill.svg" /><https://www.twitter.com/bradleydbowman />
+  <img src="/assets/linkedin-box-fill.svg" /><https://www.linkedin.com/in/bradleydbowman />
+  <img src="/assets/mail-fill.svg" /><mailto:bradleybowman@sabertech.dev />
+  <img src="/assets/external-link-fill.svg" /><https://sabertech.dev />
+
+</p>
