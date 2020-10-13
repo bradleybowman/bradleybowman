@@ -12,7 +12,7 @@ ______                              Favorite Font: Liberation Family
 |  _  \                             Desktop: Arch Linux/KDE Plasma
 | | | |                             Laptop: GalliumOS/XFCE4
 | | | |                             Favorite Movies: Pulp Fiction, Full Metal Jacket
-| |/ /                              Hobbies: Games, LaserDiscs, Electronics Repair
+| |/ /                              Hobbies: Games, LaserDiscs, Electronics Repair, Drumming
 |___/                               Employment: Searching
 ______                    
 | ___ \
