@@ -30,9 +30,13 @@ ______
 <p align="center">
 
   <img src="http://hits.dwyl.com/bradleybowman/bradleybowman.svg" alt="Hits" />
-  <img src="/assets/twitter-fill.svg" /><https://www.twitter.com/bradleydbowman />
-  <img src="/assets/linkedin-box-fill.svg" /><https://www.linkedin.com/in/bradleydbowman />
-  <img src="/assets/mail-fill.svg" /><mailto:bradleybowman@sabertech.dev />
-  <img src="/assets/external-link-fill.svg" /><https://sabertech.dev />
+  <a href="https://www.twitter.com/bradleydbowman" />
+  <img src="/assets/twitter-fill.svg" />
+  <a href="https://www.linkedin.com/in/bradleydbowman" />
+  <img src="/assets/linkedin-box-fill.svg" />
+  <a href="mailto:bradleybowman@sabertech.dev" />
+  <img src="/assets/mail-fill.svg" />
+  <a href="https://sabertech.dev" />
+  <img src="/assets/external-link-fill.svg" />
 
 </p>
