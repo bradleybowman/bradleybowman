@@ -9,7 +9,7 @@ ______                              ------------------------
 | |_/ /                             Packages: Computer Engineering (Major), Mathematics
 \____/                              Favorite Color: Blue
 ______                              Favorite Font: Liberation Family
-|  _  \                             Desktop: Arch Linux/KDE Plasma/i3wm
+|  _  \                             Desktop: Arch Linux/KDE Plasma
 | | | |                             Laptop: GalliumOS/XFCE4/i3wm
 | | | |                             Favorite Movies: Pulp Fiction, Full Metal Jacket
 | |/ /                              Hobbies: Games, LaserDiscs, Electronics Repair, Drumming
