@@ -1,7 +1,7 @@
 ```
 
-[bradleybowman@github.com ~]$ neofetch
-                                    bradleybowman@github.com
+[bradleydbowman@github ~]$ neofetch
+                                    bradleydbowman@github
 ______                              ------------------------
 | ___ \                             OS: Human
 | |_/ /                             Host: Earth
