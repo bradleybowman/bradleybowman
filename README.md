@@ -29,13 +29,6 @@ ______
 
 <p align="center">
 
-  <img src="http://hits.dwyl.com/bradleybowman/bradleybowman.svg" alt="Hits" />
-
-</p>
-
-
-<p align="center">
-
   <a href="https://www.twitter.com/bradleydbowman" />
   <img src="/assets/twitter-fill.svg" />
   <a href="https://www.linkedin.com/in/bradleydbowman" />
