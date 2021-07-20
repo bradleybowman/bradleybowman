@@ -8,7 +8,7 @@ ______                              ------------------------
 | ___ \                             Uptime: 31 years
 | |_/ /                             Packages: Computer Engineering (Major), Mathematics
 \____/                              Favorite Color: Blue
-______                              Favorite Font: Liberation Family
+______                              Favorite Font: Fira Code
 |  _  \                             Desktop: Arch Linux/KDE Plasma
 | | | |                             Laptop: GalliumOS/XFCE4/i3wm
 | | | |                             Favorite Movies: Pulp Fiction, Full Metal Jacket
