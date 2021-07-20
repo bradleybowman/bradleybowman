@@ -13,7 +13,7 @@ ______                              Favorite Font: Fira Code
 | | | |                             Laptop: GalliumOS/XFCE4/i3wm
 | | | |                             Favorite Movies: Pulp Fiction, Full Metal Jacket
 | |/ /                              Hobbies: Games, LaserDiscs, Electronics Repair, Drumming
-|___/                               Employment: Searching
+|___/                               Employment: Senior Technical Support Engineer at NI
 ______                    
 | ___ \
 | |_/ /
