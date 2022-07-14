@@ -10,7 +10,6 @@ ______                              ------------------------
 \____/                              Favorite Color: Blue
 ______                              Favorite Font: Fira Code
 |  _  \                             Desktop: Arch Linux/KDE Plasma
-| | | |                             Laptop: GalliumOS/XFCE4/i3wm
 | | | |                             Favorite Movies: Pulp Fiction, Full Metal Jacket
 | |/ /                              Hobbies: Games, LaserDiscs, Electronics Repair, Drumming
 |___/                               Employment: Senior Technical Support Engineer at NI
