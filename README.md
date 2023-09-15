@@ -5,7 +5,7 @@
 ______                              ------------------------
 | ___ \                             OS: Human
 | |_/ /                             Host: Earth
-| ___ \                             Uptime: 33 years
+| ___ \                             Uptime: 34 years
 | |_/ /                             Packages: Computer Engineering (Major), Mathematics
 \____/                              Favorite Color: Blue
 ______                              Favorite Font: Fira Code
